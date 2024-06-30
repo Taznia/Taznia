@@ -34,10 +34,10 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<!-- Stats and streaks with spacing and different colors -->
-<div style="display: flex; flex-direction: column; align-items: center; background-color: #F9DBFF; padding: 20px; border-radius: 10px; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taznia&show_icons=true&locale=en&layout=compact" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=taznia&show_icons=true&locale=en" alt="taznia" style="background-color: #F9DBFF; padding: 10px; border-radius: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taznia&" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
-</div>
 
+<!-- Stats and streaks with spacing and different colors -->
+<div style="display: flex; flex-direction: column; align-items: center; background-color: #000; padding: 20px; border-radius: 10px; gap: 20px; color: #39ff14;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taznia&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=39ff14&text_color=39ff14&icon_color=39ff14" alt="taznia" style="background-color: #000; padding: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=taznia&show_icons=true&locale=en&bg_color=000000&title_color=39ff14&text_color=39ff14&icon_color=39ff14" alt="taznia" style="background-color: #000; padding: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taznia&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=39ff14&dates=39ff14&stroke=39ff14&currStreakNum=39ff14&sideNums=39ff14" alt="taznia" style="background-color: #000; padding: 10px; border-radius: 10px;" />
+</div>
