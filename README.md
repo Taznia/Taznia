@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznia&label=Profile%20views&color=0e75b6&style=flat" alt="taznia" /> </p>
-
+<h3 align="left">About Me:</h3>
 - 🔭 I’m currently working on **Axelia (A quadruped robot dog)**
 
 - 🌱 I’m currently learning **Tensorflow, Matlab**
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Do you know the underneath meaning of my name is happiness!!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taznia-tabassum-onon-b26436261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taznia-tabassum-onon-b26436261/" height="30" width="40" /></a>
 <a href="https://fb.com/taznia tabassum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taznia tabassum" height="30" width="40" /></a>
