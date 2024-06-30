@@ -35,9 +35,9 @@
 </p>
 
 <!-- Stats and streaks with spacing and different colors -->
-<div style="display: flex; flex-direction: column; align-items: center; background-color: #e0f7fa; padding: 20px; border-radius: 10px; gap: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; background-color: #F9DBFF; padding: 20px; border-radius: 10px; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taznia&show_icons=true&locale=en&layout=compact" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=taznia&show_icons=true&locale=en" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=taznia&show_icons=true&locale=en" alt="taznia" style="background-color: #F9DBFF; padding: 10px; border-radius: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taznia&" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
 </div>
 
