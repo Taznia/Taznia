@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taznia Tabassum Onon</h1>
 <h3 align="center">Pushing Boundaries in Frontend Development, Machine Learning, Reinforcement Learning, and Robotics</h3>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXgzdTRpNXdqZ3JycDV5NWk2dGZjNnExdnY3M3FjenBjbTUxaDI5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611mx3u4i5wjgrrp5y5i6tfc6q1vv73qczpcm51h29j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznia&label=Profile%20views&color=0e75b6&style=flat" alt="taznia" /> </p>
