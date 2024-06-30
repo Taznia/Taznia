@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznia&label=Profile%20views&color=0e75b6&style=flat" alt="taznia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taznia" alt="taznia" /></a> </p>
-
 - 🔭 I’m currently working on **Axelia (A quadruped robot dog)**
 
 - 🌱 I’m currently learning **Tensorflow, Matlab**
