@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Matlab**
 
-- 💬 Ask me about **flutter, ROS2**
+- 💬 Ask me about **Flutter, ROS2**
 
 - 📫 How to reach me **tabassumtaznia14@gmail.com**
 
