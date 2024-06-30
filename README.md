@@ -1,28 +1,28 @@
-<h1 align="center">Hi 👋, I'm Taznia Tabassum Onon</h1>
+<h1 align="center">Hi 🙋‍♀️, I'm Taznia Tabassum Onon</h1>
 <h3 align="center">Pushing Boundaries in Frontend Development, Machine Learning, Reinforcement Learning, and Robotics</h3>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611mx3u4i5wjgrrp5y5i6tfc6q1vv73qczpcm51h29j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznia&label=Profile%20views&color=0e75b6&style=flat" alt="taznia" /> </p>
-<h3 align="left">About Me 👩‍💻:</h3>
-- 🔭 I’m currently working on **Axelia (A quadruped robot dog)**
+<h3 align="left">About Me 🍂🍁:</h3>
+-  I’m currently working on **Axelia (A quadruped robot dog)**
 
-- 🌱 I’m currently learning **Tensorflow, Matlab**
+- 📕 I’m currently learning **Tensorflow, Matlab**
 
-- 💬 Ask me about **Flutter, ROS2**
+- 🤔 Ask me about **Flutter, ROS2**
 
-- 📫 How to reach me **tabassumtaznia14@gmail.com**
+- 📧 How to reach me **tabassumtaznia14@gmail.com**
 
-- ⚡ Fun fact **Do you know the underneath meaning of my name is happiness!!**
+- 🎉 Fun fact **about me is the underneath meaning of my name is happiness 🥰🥰!!**
 
-<h3 align="left">Connect With Me:</h3>
+<h3 align="left">Connect With Me ☎️:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taznia-tabassum-onon-b26436261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taznia-tabassum-onon-b26436261/" height="30" width="40" /></a>
 <a href="https://fb.com/taznia tabassum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taznia tabassum" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/taznia_tabassum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taznia_tabassum" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,flutter,ros,py,mysql,css" />
