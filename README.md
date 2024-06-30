@@ -34,11 +34,10 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<!-- Stats and streaks with spacing -->
-<p align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taznia&show_icons=true&locale=en&layout=compact" alt="taznia" style="margin-right: 20px;" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=taznia&show_icons=true&locale=en" alt="taznia" style="margin: 20px 0;" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taznia&" alt="taznia" style="margin-top: 20px;" />
-</p>
-
+<!-- Stats and streaks with spacing and different colors -->
+<div style="display: flex; flex-direction: column; align-items: center; background-color: #e0f7fa; padding: 20px; border-radius: 10px; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taznia&show_icons=true&locale=en&layout=compact" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=taznia&show_icons=true&locale=en" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taznia&" alt="taznia" style="background-color: #fff3e0; padding: 10px; border-radius: 10px;" />
+</div>
 
