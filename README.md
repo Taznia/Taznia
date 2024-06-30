@@ -37,4 +37,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=taznia&show_icons=true&locale=en&bg_color=000000&title_color=FFD700&text_color=FFD700&icon_color=FFD700" alt="taznia" style="background-color: #000; padding: 10px; border-radius: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taznia&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&stroke=FFD700&currStreakNum=FFD700&sideNums=FFD700" alt="taznia" style="background-color: #000; padding: 10px; border-radius: 10px;" />
 </div>
-![Snake animation](https://raw.githubusercontent.com/Taznia/Taznia/output/github-contribution-grid-snake-dark.svg)
