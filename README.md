@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Taznia Tabassum Onon</h1>
-<h3 align="center">Pushing Boundaries in Frontend Development, Machine Learning, Reinforcement Learning, and Robotics</h3>
+<h3 align="center">Pushing Boundaries in Frontend Development, Machine Learning, Agentic AI, and Robotics</h3>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611mx3u4i5wjgrrp5y5i6tfc6q1vv73qczpcm51h29j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2> 
