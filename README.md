@@ -5,13 +5,13 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznia&label=Profile%20views&color=0e75b6&style=flat" alt="taznia" /> </p>
 <h3 align="left">About Me 🍂🍁:</h3>
-- 🐢 I’m currently working on **Axelia (A quadruped robot dog)**
+- 🐢 I’m currently working on **Agentic AI Framework**
 
-- 📕 I’m currently learning **Tensorflow, Matlab**
+- 📕 I’m currently learning **Agentic AI, RAG, Langchain**
 
-- 🤔 Ask me about **Flutter, ROS2**
+- 🤔 Ask me about **Flutter, Full-Stack Development**
 
-- 📧 How to reach me **tabassumtaznia14@gmail.com**
+- 📧 How to reach me **taznia.tabassum@g.bracu.ac.bd**
 
 - 🎉 Fun fact **about me is the underneath meaning of my name is happiness 🥰🥰!!**
 
